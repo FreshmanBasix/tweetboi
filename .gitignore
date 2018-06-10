@@ -1,0 +1,6 @@
+*.swp
+*.o
+*.idea
+*cmake-build-debug
+*out
+*.iml
